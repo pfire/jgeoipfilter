@@ -20,6 +20,7 @@
 		<filename module="mod_jgeoipfilter">mod_jgeoipfilter.php</filename>
 		<filename>Reader.php</filename>
 		<filename>GeoLite2-Country.mmdb</filename>
+		<filename>LICENSE</filename>
 		<folder>Reader</folder>
 	</files>
 	<config>
