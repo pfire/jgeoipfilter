@@ -283,7 +283,7 @@
                   <option value="1">Show 403 Forbidden error</option>
                   <option value="2">Redirect to URL</option>
                 </field>
-                <field name="redirect_url" type="url" default="http://www.siteground.com" label="Target URL" description="" size="10" />
+                <field name="redirect_url" type="url" default="http://www.siteground.com" label="Target URL" description="" size="10" showon="action_type:2" />
                 
 			</fieldset>
 			<fieldset
